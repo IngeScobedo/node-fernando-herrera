@@ -1,5 +1,6 @@
-const { createFile } = require("./helpers/multiply");
 var colors = require('colors');
+
+const { createFile } = require("./helpers/multiply");
 const {b,m,x,l} = require('./config/yargs')
 
 
