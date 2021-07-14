@@ -1,0 +1,26 @@
+{
+  "name": "03-01-bases-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "base7": "node index --base=7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IngeScobedo/node-fernando-herrera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IngeScobedo/node-fernando-herrera/issues"
+  },
+  "homepage": "https://github.com/IngeScobedo/node-fernando-herrera#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.12",
+    "yargs": "^17.0.1"
+  }
+}
